@@ -1,2 +1,25 @@
 # Ancaster Plumbing Pros
-HVAC services in Ontario.
+
+> Ancaster Plumbing Pros is a local HVAC company serving Ancaster, Hamilton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (289) 204-2884  |  Email: contact@ancasterplumbingpros.ca  |  Website: https://ancasterplumbingpros.ca
+
+## Key pages
+
+- [Home](https://ancasterplumbingpros.ca/): Ancaster Plumbing Pros homepage with service overview and FAQ
+- [About](https://ancasterplumbingpros.ca/about/): About the company and service area
+- [Contact](https://ancasterplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://ancasterplumbingpros.ca/services/water-heaters/): Water Heaters in Ancaster, Ontario
+- [Drain Cleaning](https://ancasterplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Ancaster, Ontario
+- [Repiping](https://ancasterplumbingpros.ca/services/repiping/): Repiping in Ancaster, Ontario
+- [Fixtures & Toilets](https://ancasterplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Ancaster, Ontario
+- [Leak Detection & Repair](https://ancasterplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Ancaster, Ontario
+- [Sump Pumps & Backwater](https://ancasterplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Ancaster, Ontario
+- [Water Softeners & Filtration](https://ancasterplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Ancaster, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Ancaster are answered on the homepage.
